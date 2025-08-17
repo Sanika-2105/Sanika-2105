@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently learning **Spring Boot, AWS**  
-- 💬 Ask me about **Web Development **  
+- 💬 Ask me about **Web Development** 
 - 📫 Reach me at **sanikajoshi2003@gmail.com**  
 
 ---
